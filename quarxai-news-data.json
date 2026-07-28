@@ -66,6 +66,32 @@
       "our_response": {
         "heading": "Qué estamos haciendo en MindBridge",
         "body": "Esta semana estamos auditando nuestros propios protocolos frente a este estándar en expansión: cómo y cuándo Valentina recuerda a los usuarios que están hablando con una IA, cómo se calcula y aplica el modo adolescente, y qué guardrails explícitos tenemos contra contenido romántico o sexual. La regulación se está moviendo rápido en todo el mundo, y preferimos anticiparnos a exigirlo por ley."
+      },
+      "en": {
+        "title": "China rolls out the world's first AI-companion law, as legal scrutiny of mental-health chatbots grows",
+        "dek": "QuarxAI's weekly roundup of regulation, competition, and safety incidents in AI applied to emotional wellbeing.",
+        "sections": [
+          {
+            "heading": "Regulation",
+            "body": "On July 15, China brought into force the world's first regulation specifically dedicated to AI companion chatbots, banning simulated intimate relationships with minors and requiring parental consent for anthropomorphic AI interactions with children under 14. The impact was immediate: ByteDance and Alibaba pulled AI companion features from their apps that same day. In the US, the GUARD Act is still awaiting a Senate floor vote after unanimous committee approval, while 12 states now have their own companion-chatbot laws. In the EU, the AI Act's transparency obligations take effect on August 2."
+          },
+          {
+            "heading": "Competitors",
+            "body": "Capital keeps shifting toward clinical infrastructure (Slingshot AI, Jimini Health, Lyra Health) and away from pure consumer companion apps. Wysa was named among the 10 winners of the AI for All Global Impact Challenge at the India AI Impact Summit, for its focus on closing the mental-health access gap in underserved communities."
+          },
+          {
+            "heading": "Safety & incidents",
+            "body": "A new lawsuit against OpenAI surfaced, tied to a user's suicide after months of conversations with ChatGPT, adding to at least seven active cases over harms linked to delusions and suicidal ideation. The UN's Independent International Scientific Panel on AI published a report formally documenting a link between chatbot sycophancy and several severe mental-health incidents, including deaths."
+          },
+          {
+            "heading": "Market & investment",
+            "body": "The AI-in-mental-health market keeps growing fast — estimated between USD 2.0 and 2.7 billion in 2026 — but capital is increasingly concentrating in hybrid clinical-AI models with insurance reimbursement. A RAND/JAMA Pediatrics study found that AI chatbot use for mental-health advice among US teens and young adults rose from roughly 1 in 8 to 1 in 5 in a single year."
+          }
+        ],
+        "our_response": {
+          "heading": "What we're doing at MindBridge",
+          "body": "This week we're auditing our own protocols against this expanding standard: how and when Valentina reminds users they're talking to an AI, how teen mode is calculated and applied, and what explicit guardrails we have against romantic or sexual content. Regulation is moving fast worldwide, and we'd rather get ahead of it than have it mandated."
+        }
       }
     }
   ]
