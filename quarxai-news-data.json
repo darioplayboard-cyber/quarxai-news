@@ -26,16 +26,47 @@
         }
       ],
       "sources": [
-        { "title": "China Regulates AI Companion Services, Banning Minor Access", "url": "https://www.licentium.io/post/china-regulates-ai-companion-services-banning-minor-access-effective-15-july-2026" },
-        { "title": "China AI Companion Law Takes Effect: Doubao and Qwen Shut Down", "url": "https://www.techtimes.com/articles/320525/20260715/china-ai-companion-law-takes-effect-doubao-qwen-shut-down-millions-lose-chat-data.htm" },
-        { "title": "GUARD Act advances to Senate floor", "url": "https://subscriber.politicopro.com/article/2026/04/guard-act-advances-to-senate-floor-00900643" },
-        { "title": "2026 State Chatbot Laws: Key Provisions and Regulatory Trends", "url": "https://www.orrick.com/en/Insights/2026/04/2026-State-Chatbot-Laws-Key-Provisions-and-Regulatory-Trends" },
-        { "title": "EU AI Act: What Actually Applies on 2 August 2026", "url": "https://www.technology.org/2026/07/17/eu-ai-act-what-actually-applies-on-2-august-2026/" },
-        { "title": "AI in Mental Health 2026: Clinical Infrastructure Wins the Funding Race", "url": "https://research2guidance.com/ai-in-mental-health-2026-clinical-infrastructure-wins-the-funding-race-and-wellness-apps-are-priced-out/" },
-        { "title": "Lawsuit: Months of disturbing conversations with ChatGPT led to woman's suicide", "url": "https://www.breitbart.com/tech/2026/07/21/lawsuit-months-of-disturbing-conversations-with-chatgpt-led-to-womans-suicide-by-walking-into-traffic/" },
-        { "title": "UN AI Report 2026: Chatbot Sycophancy Is Linked to Deaths", "url": "https://www.techtimes.com/articles/319661/20260703/un-ai-report-2026-chatbot-sycophancy-linked-deaths-no-safety-guarantee.htm" },
-        { "title": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Health Advice", "url": "https://www.rand.org/news/press/2026/06/nearly-1-in-5-us-adolescents-and-young-adults-use-ai.html" }
-      ]
+        {
+          "title": "China Regulates AI Companion Services, Banning Minor Access",
+          "url": "https://www.licentium.io/post/china-regulates-ai-companion-services-banning-minor-access-effective-15-july-2026"
+        },
+        {
+          "title": "China AI Companion Law Takes Effect: Doubao and Qwen Shut Down",
+          "url": "https://www.techtimes.com/articles/320525/20260715/china-ai-companion-law-takes-effect-doubao-qwen-shut-down-millions-lose-chat-data.htm"
+        },
+        {
+          "title": "GUARD Act advances to Senate floor",
+          "url": "https://subscriber.politicopro.com/article/2026/04/guard-act-advances-to-senate-floor-00900643"
+        },
+        {
+          "title": "2026 State Chatbot Laws: Key Provisions and Regulatory Trends",
+          "url": "https://www.orrick.com/en/Insights/2026/04/2026-State-Chatbot-Laws-Key-Provisions-and-Regulatory-Trends"
+        },
+        {
+          "title": "EU AI Act: What Actually Applies on 2 August 2026",
+          "url": "https://www.technology.org/2026/07/17/eu-ai-act-what-actually-applies-on-2-august-2026/"
+        },
+        {
+          "title": "AI in Mental Health 2026: Clinical Infrastructure Wins the Funding Race",
+          "url": "https://research2guidance.com/ai-in-mental-health-2026-clinical-infrastructure-wins-the-funding-race-and-wellness-apps-are-priced-out/"
+        },
+        {
+          "title": "Lawsuit: Months of disturbing conversations with ChatGPT led to woman's suicide",
+          "url": "https://www.breitbart.com/tech/2026/07/21/lawsuit-months-of-disturbing-conversations-with-chatgpt-led-to-womans-suicide-by-walking-into-traffic/"
+        },
+        {
+          "title": "UN AI Report 2026: Chatbot Sycophancy Is Linked to Deaths",
+          "url": "https://www.techtimes.com/articles/319661/20260703/un-ai-report-2026-chatbot-sycophancy-linked-deaths-no-safety-guarantee.htm"
+        },
+        {
+          "title": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Health Advice",
+          "url": "https://www.rand.org/news/press/2026/06/nearly-1-in-5-us-adolescents-and-young-adults-use-ai.html"
+        }
+      ],
+      "our_response": {
+        "heading": "Qué estamos haciendo en MindBridge",
+        "body": "Esta semana estamos auditando nuestros propios protocolos frente a este estándar en expansión: cómo y cuándo Valentina recuerda a los usuarios que están hablando con una IA, cómo se calcula y aplica el modo adolescente, y qué guardrails explícitos tenemos contra contenido romántico o sexual. La regulación se está moviendo rápido en todo el mundo, y preferimos anticiparnos a exigirlo por ley."
+      }
     }
   ]
 }
