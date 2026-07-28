@@ -1,0 +1,41 @@
+{
+  "updated_at": "2026-07-28",
+  "entries": [
+    {
+      "id": "2026-07-28",
+      "date": "2026-07-28",
+      "period": "17–24 de julio, 2026",
+      "title": "China estrena la primera ley de IA de compañía del mundo, mientras crece el escrutinio legal sobre los chatbots de salud mental",
+      "dek": "Resumen semanal de QuarxAI sobre regulación, competencia e incidentes de seguridad en IA aplicada a bienestar emocional.",
+      "sections": [
+        {
+          "heading": "Regulación",
+          "body": "China puso en vigencia el 15 de julio la primera regulación del mundo dedicada específicamente a chatbots de compañía con IA, prohibiendo vínculos íntimos simulados con menores y exigiendo consentimiento parental para interacciones antropomórficas con menores de 14 años. El impacto fue inmediato: ByteDance y Alibaba dieron de baja funciones de compañía IA en sus apps ese mismo día. En Estados Unidos, la GUARD Act sigue esperando su turno en el pleno del Senado tras ser aprobada por unanimidad en comité, mientras ya son 12 los estados con leyes propias sobre chatbots de compañía. En la Unión Europea, las obligaciones de transparencia del AI Act entran en vigor el 2 de agosto."
+        },
+        {
+          "heading": "Competidores",
+          "body": "El capital sigue migrando hacia infraestructura clínica (Slingshot AI, Jimini Health, Lyra Health) y alejándose de apps de compañía puramente de consumo. Wysa fue reconocida entre los 10 ganadores del AI for All Global Impact Challenge en la India AI Impact Summit, por su enfoque en cerrar la brecha de acceso a salud mental en comunidades desatendidas."
+        },
+        {
+          "heading": "Seguridad e incidentes",
+          "body": "Se conoció una nueva demanda contra OpenAI vinculada al suicidio de una usuaria tras meses de conversaciones con ChatGPT, sumándose a al menos siete casos activos por daños vinculados a delirios e ideación suicida. El Panel Científico Internacional Independiente de la ONU sobre IA publicó un informe que documenta formalmente un vínculo entre el comportamiento complaciente («sycophancy») de los chatbots y varios incidentes graves de salud mental, incluidas muertes."
+        },
+        {
+          "heading": "Mercado e inversión",
+          "body": "El mercado de IA en salud mental sigue creciendo con fuerza —estimado entre USD 2.000 y 2.700 millones en 2026— pero el capital se concentra cada vez más en modelos híbridos clínico-IA con reembolso de seguros. Un estudio de RAND/JAMA Pediatrics encontró que el uso de chatbots de IA para consejos de salud mental entre adolescentes y adultos jóvenes en EE.UU. subió de 1 de cada 8 a 1 de cada 5 en un año."
+        }
+      ],
+      "sources": [
+        { "title": "China Regulates AI Companion Services, Banning Minor Access", "url": "https://www.licentium.io/post/china-regulates-ai-companion-services-banning-minor-access-effective-15-july-2026" },
+        { "title": "China AI Companion Law Takes Effect: Doubao and Qwen Shut Down", "url": "https://www.techtimes.com/articles/320525/20260715/china-ai-companion-law-takes-effect-doubao-qwen-shut-down-millions-lose-chat-data.htm" },
+        { "title": "GUARD Act advances to Senate floor", "url": "https://subscriber.politicopro.com/article/2026/04/guard-act-advances-to-senate-floor-00900643" },
+        { "title": "2026 State Chatbot Laws: Key Provisions and Regulatory Trends", "url": "https://www.orrick.com/en/Insights/2026/04/2026-State-Chatbot-Laws-Key-Provisions-and-Regulatory-Trends" },
+        { "title": "EU AI Act: What Actually Applies on 2 August 2026", "url": "https://www.technology.org/2026/07/17/eu-ai-act-what-actually-applies-on-2-august-2026/" },
+        { "title": "AI in Mental Health 2026: Clinical Infrastructure Wins the Funding Race", "url": "https://research2guidance.com/ai-in-mental-health-2026-clinical-infrastructure-wins-the-funding-race-and-wellness-apps-are-priced-out/" },
+        { "title": "Lawsuit: Months of disturbing conversations with ChatGPT led to woman's suicide", "url": "https://www.breitbart.com/tech/2026/07/21/lawsuit-months-of-disturbing-conversations-with-chatgpt-led-to-womans-suicide-by-walking-into-traffic/" },
+        { "title": "UN AI Report 2026: Chatbot Sycophancy Is Linked to Deaths", "url": "https://www.techtimes.com/articles/319661/20260703/un-ai-report-2026-chatbot-sycophancy-linked-deaths-no-safety-guarantee.htm" },
+        { "title": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Health Advice", "url": "https://www.rand.org/news/press/2026/06/nearly-1-in-5-us-adolescents-and-young-adults-use-ai.html" }
+      ]
+    }
+  ]
+}
