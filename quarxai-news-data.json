@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-03",
+  "updated_at": "2026-08-10",
   "entries": [
     {
       "id": "2026-07-28",
@@ -95,15 +95,15 @@
       }
     },
     {
-      "id": "2026-08-03",
-      "date": "2026-08-03",
-      "period": "25 de julio – 3 de agosto, 2026",
-      "title": "Entran en vigencia las reglas de transparencia del AI Act europeo mientras se acumulan nuevas demandas contra chatbots de IA en EE.UU.",
+      "id": "2026-08-10",
+      "date": "2026-08-10",
+      "period": "28 de julio – 10 de agosto, 2026",
+      "title": "La UE empieza a aplicar el AI Act sobre chatbots mientras se acumulan nuevas demandas contra IA de compañía en EE.UU.",
       "dek": "Resumen semanal de QuarxAI sobre regulación, competencia e incidentes de seguridad en IA aplicada a bienestar emocional.",
       "sections": [
         {
           "heading": "Regulación",
-          "body": "El 2 de agosto entraron en vigencia las obligaciones de transparencia del Artículo 50 del AI Act de la Unión Europea, que exigen a los chatbots de IA declarar con claridad, desde el primer contacto, que el usuario está hablando con un sistema artificial y no con una persona. El paquete \"Digital Omnibus\", aprobado por el Consejo Europeo en junio, pospuso otras obligaciones —como el marcado de contenido sintético para sistemas ya en el mercado y ciertos requisitos para sistemas de alto riesgo— pero mantuvo intacta esta exigencia de disclosure conversacional. En Estados Unidos, la GUARD Act sigue esperando tratamiento en el pleno del Senado tras su aprobación unánime en comité el 30 de abril, mientras la FTC continúa la investigación que abrió en septiembre pasado sobre siete compañías de chatbots. En Oregon, la SB 1546 —que exige protocolos de derivación ante señales de riesgo suicida y crea responsabilidad civil por infracción— entra en vigencia en enero de 2027."
+          "body": "El 2 de agosto entraron en vigencia las obligaciones de transparencia del Artículo 50 del AI Act europeo —los chatbots deben declarar desde el primer contacto que son IA, no personas— y la Comisión Europea y las autoridades nacionales ya abrieron canales activos de denuncia para quien considere que un sistema de IA viola esta regla. El paquete \"Digital Omnibus\" aprobado en junio pospuso otras obligaciones (marcado de contenido sintético, ciertos requisitos de alto riesgo) pero no esta exigencia de disclosure conversacional. En Estados Unidos, la GUARD Act sigue esperando tratamiento en el pleno del Senado tras su aprobación unánime en comité el 30 de abril, mientras la FTC continúa la investigación que abrió en septiembre pasado sobre siete compañías de chatbots. En Oregon, la SB 1546 —protocolos de derivación ante riesgo suicida y responsabilidad civil por infracción— entra en vigencia en enero de 2027."
         },
         {
           "heading": "Competidores",
@@ -124,8 +124,16 @@
       },
       "sources": [
         {
-          "title": "AI Act Article 50 Transparency Obligations: 2 August 2026",
-          "url": "https://bratby.law/ai-act-transparency-obligations-2026/"
+          "title": "EU begins enforcing AI Act, putting AI models under the microscope",
+          "url": "https://www.helpnetsecurity.com/2026/08/04/eu-ai-act-enforcement-ai-models/"
+        },
+        {
+          "title": "Anthropic, OpenAI among firms facing new scrutiny under EU AI Act enforcement powers | CNBC",
+          "url": "https://www.cnbc.com/2026/08/03/eu-ai-act-enforcement-powers.html"
+        },
+        {
+          "title": "The AI Act kicks into action, forces companies to be clear about AI chatbots | Malwarebytes",
+          "url": "https://www.malwarebytes.com/blog/news/2026/08/the-ai-act-kicks-into-action-forces-companies-to-be-clear-about-ai-bots"
         },
         {
           "title": "Yes, August 2 Still Matters: The EU Approved a High-Risk AI Delay, but Most Transparency Obligations Remain",
@@ -161,12 +169,12 @@
         }
       ],
       "en": {
-        "title": "EU AI Act transparency rules take effect as new lawsuits pile up against AI chatbots in the US",
+        "title": "The EU starts enforcing the AI Act on chatbots as new lawsuits pile up against AI companions in the US",
         "dek": "QuarxAI's weekly roundup of regulation, competition, and safety incidents in AI applied to emotional wellbeing.",
         "sections": [
           {
             "heading": "Regulation",
-            "body": "On August 2, the transparency obligations of Article 50 of the EU AI Act took effect, requiring AI chatbots to clearly disclose from the first interaction that the user is talking to an artificial system, not a person. The \"Digital Omnibus\" package approved by the European Council in June postponed other obligations — such as synthetic-content watermarking for systems already on the market and certain high-risk requirements — but left this conversational disclosure requirement untouched. In the US, the GUARD Act is still awaiting a Senate floor vote after unanimous committee approval on April 30, while the FTC continues the inquiry it opened last September into seven chatbot companies. In Oregon, SB 1546 — which requires referral protocols for suicide risk signals and creates civil liability for violations — takes effect in January 2027."
+            "body": "On August 2, the transparency obligations of Article 50 of the EU AI Act took effect — chatbots must disclose from the first interaction that they are AI, not a person — and the European Commission and national authorities have already opened active complaint channels for anyone who believes an AI system violates this rule. The \"Digital Omnibus\" package approved in June postponed other obligations (synthetic-content watermarking, certain high-risk requirements) but not this conversational disclosure requirement. In the US, the GUARD Act is still awaiting a Senate floor vote after unanimous committee approval on April 30, while the FTC continues the inquiry it opened last September into seven chatbot companies. In Oregon, SB 1546 — referral protocols for suicide risk and civil liability for violations — takes effect in January 2027."
           },
           {
             "heading": "Competitors",
