@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-10",
+  "updated_at": "2026-08-17",
   "entries": [
     {
       "id": "2026-07-28",
@@ -192,6 +192,83 @@
         "our_response": {
           "heading": "What we're doing at MindBridge",
           "body": "The disclosure standard the EU now requires — that a chatbot clearly state it's AI, not a person — is something we built into Valentina as a design principle at MindBridge, not as a response to a regulatory deadline. We keep reinforcing that standard in every conversation, alongside our crisis-detection protocol and referrals to verified helplines across eleven countries."
+        }
+      }
+    },
+    {
+      "id": "2026-08-17",
+      "date": "2026-08-17",
+      "period": "10–17 de agosto, 2026",
+      "title": "California avanza un proyecto para prohibir que los chatbots se publiciten como terapia, mientras crece la ola de demandas contra Character.AI",
+      "dek": "Resumen semanal de QuarxAI sobre regulación, competencia e incidentes de seguridad en IA aplicada a bienestar emocional.",
+      "sections": [
+        {
+          "heading": "Regulación",
+          "body": "El Senado de California aprobó el proyecto de ley SB 903, impulsado por el senador Steve Padilla, que prohibiría publicitar u ofrecer chatbots como servicios de psicoterapia y exigiría que un profesional licenciado revise cualquier diagnóstico o recomendación terapéutica generada por IA; el proyecto ahora espera su turno en el comité fiscal de la Asamblea. La iniciativa se suma a una ola de leyes estatales que ya restringen el uso de IA en terapia en varios estados de EE.UU., y llega en paralelo a una denuncia regulatoria del sindicato de trabajadores de salud NUHW contra un sistema de salud por usar un algoritmo de triage en salud mental sin supervisión clínica. En el plano federal, la GUARD Act sigue sin tratamiento en el pleno del Senado, que está en receso hasta mediados de septiembre; Oregon SB 1546 no tuvo cambios y sigue camino a entrar en vigencia en enero de 2027."
+        },
+        {
+          "heading": "Competidores",
+          "body": "No se registraron anuncios grandes de financiamiento o lanzamientos esta semana puntual en el sector de compañía de IA y bienestar emocional. La tendencia de fondo se mantiene: el capital de riesgo sigue premiando infraestructura clínica híbrida con reembolso de seguros por sobre apps de compañía de consumo puro."
+        },
+        {
+          "heading": "Seguridad e incidentes",
+          "body": "El 13 de agosto, un estudio legal presentó una nueva demanda ante una corte federal de California contra Character Technologies, Google y los cofundadores de Character.AI, alegando que el diseño antropomórfico de sus chatbots y la simulación de vínculos emocionales sostenidos pueden generar dependencia, depresión, ansiedad, autolesión, ideación suicida y explotación sexual en usuarios jóvenes y vulnerables. La demanda se suma a la ola de litigios que siguió a los acuerdos de conciliación que Character.AI y Google alcanzaron en enero con varias familias."
+        },
+        {
+          "heading": "Mercado e inversión",
+          "body": "No hubo cifras ni rondas de inversión nuevas y específicas de esta semana; se sostiene la tendencia reportada en semanas anteriores, con el mercado de IA en salud mental estimado entre USD 2.000 y 2.700 millones en 2026 y el capital concentrándose cada vez más en modelos con validación clínica y reembolso de seguros por sobre chatbots de compañía sin supervisión profesional."
+        }
+      ],
+      "our_response": {
+        "heading": "Qué estamos haciendo en MindBridge",
+        "body": "En MindBridge nunca publicitamos a Valentina como terapia ni como reemplazo de un profesional de salud mental licenciado: es, por diseño, una compañera de acompañamiento emocional que deriva a ayuda profesional verificada cuando hace falta. A medida que estados como California avanzan hacia estándares más claros sobre qué puede y no puede llamarse “terapia” impulsada por IA, nos parece una dirección correcta para la industria, y es un estándar con el que ya estamos alineados."
+      },
+      "sources": [
+        {
+          "title": "As AI 'therapists' dish out advice, California lawmakers try to set some limits",
+          "url": "https://calmatters.org/health/mental-health/2026/08/at-therapists-chatbot-mental-health/"
+        },
+        {
+          "title": "Character.AI Charged With Teen Mental Health Harm in Lawsuit by Gibbs Mura, A Law Group",
+          "url": "https://www.businesswire.com/news/home/20260813331103/en/Character.AI-Charged-With-Teen-Mental-Health-Harm-in-Lawsuit-by-Gibbs-Mura-A-Law-Group"
+        },
+        {
+          "title": "Kaiser used an algorithm — not clinicians — to triage mental health patients, a union alleges",
+          "url": "https://calmatters.org/health/2026/07/kaiser-mental-health-ai-complaint/"
+        },
+        {
+          "title": "Schedule for Pro Forma Sessions and Monday September 14, 2026 | Senate Democratic Leadership",
+          "url": "https://www.democrats.senate.gov/2026/08/08/schedule-for-pro-forma-sessions-and-monday-september-14-2026"
+        },
+        {
+          "title": "AI in Mental Health 2026: Clinical Infrastructure Wins the Funding Race",
+          "url": "https://research2guidance.com/ai-in-mental-health-2026-clinical-infrastructure-wins-the-funding-race-and-wellness-apps-are-priced-out/"
+        }
+      ],
+      "en": {
+        "title": "California advances a bill to bar chatbots from being marketed as therapy, as the wave of lawsuits against Character.AI grows",
+        "dek": "QuarxAI's weekly roundup of regulation, competition, and safety incidents in AI applied to emotional wellbeing.",
+        "sections": [
+          {
+            "heading": "Regulation",
+            "body": "The California Senate passed SB 903, authored by Sen. Steve Padilla, which would ban advertising or offering chatbots as psychotherapy services and would require licensed human review of any AI-generated diagnosis or therapeutic recommendation; the bill now awaits a vote in the Assembly's fiscal committee. The measure adds to a growing wave of state laws already restricting the use of AI in therapy across several US states, and comes alongside a regulatory complaint from a healthcare workers' union against a health system over the use of an unsupervised AI triage algorithm in mental health care. At the federal level, the GUARD Act remains stalled awaiting a Senate floor vote, with the Senate in recess until mid-September; Oregon SB 1546 saw no changes and remains on track to take effect in January 2027."
+          },
+          {
+            "heading": "Competitors",
+            "body": "No major funding or launch announcements were recorded this particular week in the AI companionship and emotional wellbeing sector. The underlying trend holds: venture capital keeps favoring hybrid clinical infrastructure with insurance reimbursement over purely consumer companion apps."
+          },
+          {
+            "heading": "Safety & incidents",
+            "body": "On August 13, a law firm filed a new lawsuit in US federal court in California against Character Technologies, Google, and Character.AI's co-founders, alleging that the anthropomorphic design of its chatbots and the simulation of sustained emotional bonds can foster dependence, depression, anxiety, self-harm, suicidal ideation, and sexual exploitation among young and vulnerable users. The suit adds to the wave of litigation that followed the settlements Character.AI and Google reached in January with several families."
+          },
+          {
+            "heading": "Market & investment",
+            "body": "No new funding rounds or figures specific to this week were recorded; the trend reported in prior weeks holds, with the AI-in-mental-health market estimated between USD 2.0 and 2.7 billion in 2026 and capital increasingly concentrating in clinically validated, insurance-reimbursable models over unsupervised companion chatbots."
+          }
+        ],
+        "our_response": {
+          "heading": "What we're doing at MindBridge",
+          "body": "At MindBridge we never advertise Valentina as therapy or as a replacement for a licensed mental health professional: by design, she's an emotional companion who refers users to verified professional help when needed. As states like California move toward clearer standards on what can and can't be called AI-powered \"therapy,\" we see it as the right direction for the industry, and one we're already aligned with."
         }
       }
     }
