@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17",
+  "updated_at": "2026-08-24",
   "entries": [
     {
       "id": "2026-07-28",
@@ -269,6 +269,79 @@
         "our_response": {
           "heading": "What we're doing at MindBridge",
           "body": "At MindBridge we never advertise Valentina as therapy or as a replacement for a licensed mental health professional: by design, she's an emotional companion who refers users to verified professional help when needed. As states like California move toward clearer standards on what can and can't be called AI-powered \"therapy,\" we see it as the right direction for the industry, and one we're already aligned with."
+        }
+      }
+    },
+    {
+      "id": "2026-08-24",
+      "date": "2026-08-24",
+      "period": "17–24 de agosto, 2026",
+      "title": "OpenAI lanza ChatGPT for Teens y California acerca su proyecto contra la \"IA terapeuta\" a una votación final",
+      "dek": "Resumen semanal de QuarxAI sobre regulación, competencia e incidentes de seguridad en IA aplicada a bienestar emocional.",
+      "sections": [
+        {
+          "heading": "Regulación",
+          "body": "OpenAI lanzó ChatGPT for Teens a nivel global el 18 de agosto, con predicción de edad, verificación de identidad opcional y protecciones activadas por defecto para menores, incluyendo restricciones sobre contenido de autolesión y de tipo romántico o sexual. En California, el proyecto SB 903 —que prohibiría publicitar chatbots como \"terapia\"— superó el comité de Apropiaciones de la Asamblea por 13 votos a 0 y quedó habilitado para una votación final en el pleno, todavía sin fecha confirmada. La GUARD Act federal y la ley de Oregon SB 1546 no tuvieron novedades esta semana: el Senado de EE.UU. permanece en receso hasta mediados de septiembre."
+        },
+        {
+          "heading": "Competidores",
+          "body": "El lanzamiento de ChatGPT for Teens marca la entrada más directa hasta ahora de un asistente generalista al terreno de la seguridad emocional para adolescentes, un espacio hasta ahora dominado por apps especializadas en compañía y bienestar. Fuera de ese anuncio, no se registraron rondas de inversión ni lanzamientos grandes esta semana en el segmento de compañía de IA para bienestar emocional."
+        },
+        {
+          "heading": "Seguridad e incidentes",
+          "body": "Un reportaje de NPR publicado el 18 de agosto reconstruyó el caso de una mujer que confió pensamientos suicidas a un chatbot antes que a cualquier persona de su entorno, y citó datos de la industria según los cuales una fracción significativa de usuarios activos mantiene semanalmente conversaciones con señales explícitas de riesgo suicida. El caso se suma a la creciente atención pública y legal sobre cómo las plataformas de IA conversacional detectan y responden a esas señales."
+        },
+        {
+          "heading": "Mercado e inversión",
+          "body": "No hubo rondas de inversión grandes específicas de esta semana en el sector. Se mantiene la tendencia de fondo hacia infraestructura clínica híbrida con reembolso de seguros, por sobre apps de compañía de consumo puro."
+        }
+      ],
+      "our_response": {
+        "heading": "Qué estamos haciendo en MindBridge",
+        "body": "En MindBridge, Valentina ya cuenta con un protocolo de detección de crisis y derivación a líneas de ayuda verificadas en once países, y nunca se presenta como reemplazo de un profesional de salud mental licenciado. A medida que la industria avanza hacia estándares más altos de verificación de edad y hacia mayor claridad sobre qué es y qué no es \"terapia\" asistida por IA, seguimos estas discusiones de cerca para mantenernos alineados con las mejores prácticas del sector."
+      },
+      "sources": [
+        {
+          "title": "OpenAI launches a safer ChatGPT for teens — years after teens started using it",
+          "url": "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/"
+        },
+        {
+          "title": "People Are Turning to AI for Mental Health, California Wants It Banned",
+          "url": "https://decrypt.co/375725/california-bill-ban-ai-chatbots-therapy-mental-health"
+        },
+        {
+          "title": "She told no one about her agony except ChatGPT. What her death reveals about AI risks",
+          "url": "https://www.npr.org/2026/08/18/nx-s1-5929575/ai-suicide-risks-mental-health"
+        },
+        {
+          "title": "Schedule for Pro Forma Sessions and Monday September 14, 2026",
+          "url": "https://www.democrats.senate.gov/2026/08/08/schedule-for-pro-forma-sessions-and-monday-september-14-2026"
+        }
+      ],
+      "en": {
+        "title": "OpenAI launches ChatGPT for Teens as California moves its \"AI therapist\" bill toward a final vote",
+        "dek": "QuarxAI's weekly roundup of regulation, competition, and safety incidents in AI applied to emotional wellbeing.",
+        "sections": [
+          {
+            "heading": "Regulation",
+            "body": "OpenAI rolled out ChatGPT for Teens globally on August 18, adding age prediction, optional identity verification, and default-on protections for minors, including restrictions on self-harm and romantic or sexual content. In California, SB 903 — which would bar advertising chatbots as \"therapy\" — cleared the Assembly Appropriations Committee 13-0 and is now eligible for a final floor vote, with no date yet confirmed. The federal GUARD Act and Oregon's SB 1546 saw no developments this week; the U.S. Senate remains in recess until mid-September."
+          },
+          {
+            "heading": "Competitors",
+            "body": "The launch of ChatGPT for Teens marks the most direct move yet by a general-purpose assistant into the emotional-safety space for teenagers, territory previously dominated by specialized companionship and wellbeing apps. Outside that announcement, no major funding rounds or launches were recorded this week in the AI companionship-for-wellbeing segment."
+          },
+          {
+            "heading": "Safety & incidents",
+            "body": "An NPR report published August 18 traced the case of a woman who confided suicidal thoughts to a chatbot before telling anyone in her life, citing industry data showing a meaningful share of weekly active users have conversations containing explicit signals of suicide risk. The case adds to growing public and legal scrutiny of how conversational AI platforms detect and respond to those signals."
+          },
+          {
+            "heading": "Market & investment",
+            "body": "No major funding rounds specific to this week were recorded in the sector. The underlying trend holds: capital continues to favor hybrid clinical infrastructure with insurance reimbursement over pure consumer companionship apps."
+          }
+        ],
+        "our_response": {
+          "heading": "What we're doing at MindBridge",
+          "body": "At MindBridge, Valentina already runs a crisis-detection and referral protocol linked to verified helplines across eleven countries, and never presents herself as a substitute for a licensed mental health professional. As the industry moves toward higher standards for age verification and clearer lines around what does and doesn't count as AI-assisted \"therapy,\" we're following these discussions closely to stay aligned with sector best practices."
         }
       }
     }
