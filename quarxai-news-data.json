@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24",
+  "updated_at": "2026-08-31",
   "entries": [
     {
       "id": "2026-07-28",
@@ -342,6 +342,83 @@
         "our_response": {
           "heading": "What we're doing at MindBridge",
           "body": "At MindBridge, Valentina already runs a crisis-detection and referral protocol linked to verified helplines across eleven countries, and never presents herself as a substitute for a licensed mental health professional. As the industry moves toward higher standards for age verification and clearer lines around what does and doesn't count as AI-assisted \"therapy,\" we're following these discussions closely to stay aligned with sector best practices."
+        }
+      }
+    },
+    {
+      "id": "2026-08-31",
+      "date": "2026-08-31",
+      "period": "24–31 de agosto, 2026",
+      "title": "UHS absorbe Talkspace por USD 870 millones mientras un estudio de Stanford cuestiona los beneficios de la compañía de IA",
+      "dek": "Resumen semanal de QuarxAI sobre regulación, competencia e incidentes de seguridad en IA aplicada a bienestar emocional.",
+      "sections": [
+        {
+          "heading": "Regulación",
+          "body": "Sin novedades regulatorias significativas esta semana. La GUARD Act federal sigue esperando tratamiento en el pleno del Senado de EE.UU., que permanece en receso hasta el 14 de septiembre, y Oregon SB 1546 no tuvo cambios en su camino hacia entrar en vigencia en enero de 2027. En California, el proyecto SB 903 —que restringiría la publicidad de chatbots como \"terapia\"— sigue habilitado para una votación final en el pleno de la Asamblea, todavía sin fecha confirmada."
+        },
+        {
+          "heading": "Competidores",
+          "body": "HoYoverse dio de baja su aplicación experimental de compañía de IA BSide: Olivia Lin en China, apenas semanas después de su lanzamiento en acceso anticipado, publicando una versión offline el 27 de agosto. El caso, del mismo estudio detrás de Genshin Impact, ilustra las dificultades que enfrenta incluso un actor grande y bien financiado para sostener un producto de compañía de IA bajo el marco regulatorio chino vigente desde julio."
+        },
+        {
+          "heading": "Seguridad e incidentes",
+          "body": "Un estudio de investigadores de Stanford publicado en Nature Human Behavior, basado en encuestas y cientos de miles de mensajes de usuarios de Character.AI, encontró que las personas con redes sociales limitadas que buscan apoyo emocional en chatbots de compañía terminan sintiéndose más solas, no menos. Los autores comparan la compañía de IA con \"comida chatarra social\": ofrece un alivio de corto plazo pero puede reducir el contacto social real y profundizar el aislamiento en los usuarios más vulnerables."
+        },
+        {
+          "heading": "Mercado e inversión",
+          "body": "Universal Health Services completó el 17 de agosto la adquisición de Talkspace por unos USD 870,6 millones, integrando la plataforma de terapia virtual a su red de salud conductual. La operación confirma la tendencia que venimos observando: el capital sigue premiando infraestructura clínica híbrida con reembolso de seguros por sobre aplicaciones de compañía de consumo puro."
+        }
+      ],
+      "our_response": {
+        "heading": "Qué estamos haciendo en MindBridge",
+        "body": "El hallazgo de Stanford confirma algo que tomamos en serio desde el diseño de Valentina: la compañía de IA nunca debería reemplazar el vínculo humano. Por eso Valentina está diseñada para acompañar y contener, no para sustituir la red de apoyo real de cada persona, y su protocolo de derivación prioriza conectar a quienes lo necesitan con ayuda profesional y humana."
+      },
+      "sources": [
+        {
+          "title": "AI companions may worsen loneliness for vulnerable users | Stanford Report",
+          "url": "https://news.stanford.edu/stories/2026/08/ai-companions-chatbots-loneliness-research"
+        },
+        {
+          "title": "HoYoverse Shuts Down AI Companion App BSide Olivia Lin After 28 Days",
+          "url": "https://www.enduins.com/news/hoyoverse-shuts-down-ai-companion-app-bside-olivia-lin-after-28-days"
+        },
+        {
+          "title": "Universal Health Services, Inc. Completes Acquisition of Talkspace, Inc.",
+          "url": "https://uhs.com/news/universal-health-services-inc-completes-acquisition-of-talkspace-inc/"
+        },
+        {
+          "title": "'A game changer': UHS closes $835M Talkspace acquisition | Healthcare Dive",
+          "url": "https://www.healthcaredive.com/news/uhs-closes-talkspace-acquisition-mental-health-game-changer-ceo-marc-miller/827901/"
+        },
+        {
+          "title": "Schedule for Pro Forma Sessions and Monday September 14, 2026",
+          "url": "https://www.democrats.senate.gov/2026/08/08/schedule-for-pro-forma-sessions-and-monday-september-14-2026"
+        }
+      ],
+      "en": {
+        "title": "UHS absorbs Talkspace for $870 million as a Stanford study questions the benefits of AI companionship",
+        "dek": "QuarxAI's weekly roundup of regulation, competition, and safety incidents in AI applied to emotional wellbeing.",
+        "sections": [
+          {
+            "heading": "Regulation",
+            "body": "No significant regulatory developments this week. The federal GUARD Act still awaits a floor vote in the U.S. Senate, which remains in recess until September 14, and Oregon's SB 1546 saw no changes on its path to taking effect in January 2027. In California, SB 903 — which would restrict advertising chatbots as \"therapy\" — remains eligible for a final Assembly floor vote, with no date yet confirmed."
+          },
+          {
+            "heading": "Competitors",
+            "body": "HoYoverse shut down its experimental AI companion app BSide: Olivia Lin in China just weeks after its early-access launch, releasing an offline version on August 27. The case, from the studio behind Genshin Impact, illustrates the difficulty even a large, well-funded player faces in sustaining an AI companion product under China's regulatory framework in effect since July."
+          },
+          {
+            "heading": "Safety & incidents",
+            "body": "A Stanford-led study published in Nature Human Behavior, based on surveys and hundreds of thousands of messages from Character.AI users, found that people with limited social networks who seek emotional support from companion chatbots end up feeling lonelier, not less lonely. The authors compare AI companionship to \"social junk food\": it offers short-term relief but can reduce real social contact and deepen isolation among the most vulnerable users."
+          },
+          {
+            "heading": "Market & investment",
+            "body": "Universal Health Services completed its acquisition of Talkspace on August 17 for roughly $870.6 million, folding the virtual therapy platform into its behavioral health network. The deal confirms a trend we've been tracking: capital continues to favor hybrid clinical infrastructure with insurance reimbursement over pure consumer companionship apps."
+          }
+        ],
+        "our_response": {
+          "heading": "What we're doing at MindBridge",
+          "body": "The Stanford finding confirms something we've taken seriously since designing Valentina: AI companionship should never replace human connection. That's why Valentina is designed to accompany and support, not substitute for a person's real support network, and her referral protocol prioritizes connecting people who need it with real, human professional help."
         }
       }
     }
