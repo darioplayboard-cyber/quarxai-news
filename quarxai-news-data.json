@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28",
+  "updated_at": "2026-10-05",
   "entries": [
     {
       "id": "2026-07-28",
@@ -711,6 +711,83 @@
         "our_response": {
           "heading": "What we're doing at MindBridge",
           "body": "We keep reviewing our public copy to clearly distinguish emotional companionship from clinical therapy, in line with the standard SB 903 sets. And the market's shift toward clinical infrastructure confirms why we're investing in real depth (longitudinal memory, SafeLink) rather than a generic conversational layer."
+        }
+      }
+    },
+    {
+      "id": "2026-10-05",
+      "date": "2026-10-05",
+      "period": "28 de septiembre – 5 de octubre, 2026",
+      "title": "Newsom veta la ley californiana contra la \"terapia por IA\" y Youper cierra sus puertas",
+      "dek": "Resumen semanal de QuarxAI sobre regulación, competencia e incidentes de seguridad en IA aplicada a bienestar emocional.",
+      "sections": [
+        {
+          "heading": "Regulación",
+          "body": "El gobernador de California Gavin Newsom vetó la SB 903, que habría prohibido ofrecer o publicitar chatbots como \"terapia\" y exigido revisión de un profesional licenciado ante diagnósticos o planes de tratamiento generados por IA; en su mensaje la calificó de \"demasiado amplia\". Su autor, el senador Steve Padilla, anunció que la reintroducirá en la próxima sesión. En el mismo cierre, Newsom firmó 22 de 25 proyectos de privacidad e IA, incluida una moratoria de juguetes con chatbots de compañía (SB 867) y una enmienda a la ley de aseguramiento de edad digital (AB 1856). A nivel federal, el GUARD Act sigue sin fecha de votación en el pleno del Senado."
+        },
+        {
+          "heading": "Competidores",
+          "body": "Youper, una de las apps pioneras de bienestar emocional con IA, con más de 3 millones de usuarios e investigación respaldada por Stanford, dejó de funcionar el 30 de septiembre tras quedarse sin financiamiento; los datos de los usuarios comenzaron a eliminarse el 1 de octubre."
+        },
+        {
+          "heading": "Mercado e inversión",
+          "body": "El cierre de Youper confirma la tendencia que vienen marcando los informes del sector: el capital se concentra en plataformas clínicas e híbridas, como Spring Health, que levantó USD 100 millones a una valuación de USD 3.300 millones a comienzos de septiembre, mientras las apps de bienestar puramente de consumo enfrentan un entorno de financiamiento mucho más difícil."
+        }
+      ],
+      "our_response": {
+        "heading": "Qué estamos haciendo en MindBridge",
+        "body": "Desde el primer día, MindBridge se presenta como acompañamiento emocional y no como terapia: Valentina aclara que no es una profesional de la salud mental y deriva a recursos de crisis verificados cuando hace falta. Más allá de lo que exija cada ley en cada momento, seguimos revisando cómo comunicamos el producto para que nadie lo confunda con un servicio clínico."
+      },
+      "sources": [
+        {
+          "title": "Governor Newsom Allows Dangerous Chatbots to Provide Therapy — Sen. Steve Padilla (01/10/2026)",
+          "url": "https://sd18.senate.ca.gov/news/governor-newsom-allows-dangerous-chatbots-provide-therapy"
+        },
+        {
+          "title": "California's 2026 Privacy and AI Bills: What Newsom Signed and Vetoed — Stauss PLLC",
+          "url": "https://staussfirm.com/2026/10/01/californias-2026-privacy-and-ai-bills-what-newsom-signed-and-vetoed/"
+        },
+        {
+          "title": "Newsom vetoes 'overly broad' California bill limiting AI, chatbots in therapy",
+          "url": "https://www.yahoo.com/news/politics/articles/newsom-vetoes-overly-broad-california-000920849.html"
+        },
+        {
+          "title": "Youper Is Shutting Down. Here's What You Need to Do Before September 30",
+          "url": "https://www.reneespace.com/blog/youper-is-shutting-down"
+        },
+        {
+          "title": "GUARD Act (S. 3062) — GovTrack",
+          "url": "https://www.govtrack.us/congress/bills/119/s3062/text"
+        },
+        {
+          "title": "AI in Mental Health 2026: Clinical Infrastructure Wins the Funding Race — research2guidance",
+          "url": "https://research2guidance.com/ai-in-mental-health-2026-clinical-infrastructure-wins-the-funding-race-and-wellness-apps-are-priced-out/"
+        },
+        {
+          "title": "Spring Health raises $100M Series E at $3.3B valuation",
+          "url": "https://www.springhealth.com/news/fortune-exclusive-ai-powered-mental-health-startup-boosts-valuation"
+        }
+      ],
+      "en": {
+        "title": "Newsom vetoes California's \"AI therapy\" bill as Youper shuts down",
+        "dek": "QuarxAI's weekly roundup of regulation, competition, and safety incidents in AI applied to emotional wellbeing.",
+        "sections": [
+          {
+            "heading": "Regulation",
+            "body": "California Governor Gavin Newsom vetoed SB 903, which would have banned offering or advertising chatbots as \"therapy\" and required licensed-professional review of AI-generated diagnoses or treatment plans; his veto message called it \"overly broad.\" Its author, Senator Steve Padilla, said he will reintroduce it next session. In the same signing window, Newsom signed 22 of 25 privacy and AI bills, including a moratorium on toys with companion chatbots (SB 867) and an amendment to the state's digital age assurance law (AB 1856). At the federal level, the GUARD Act still has no floor vote scheduled in the Senate."
+          },
+          {
+            "heading": "Competitors",
+            "body": "Youper, one of the pioneering AI emotional wellbeing apps, with more than 3 million users and Stanford-backed research, stopped working on September 30 after running out of funding; user data began to be deleted on October 1."
+          },
+          {
+            "heading": "Market & investment",
+            "body": "Youper's closure confirms the trend highlighted by recent industry reports: capital is concentrating in clinical and hybrid platforms, such as Spring Health, which raised $100 million at a $3.3 billion valuation in early September, while purely consumer wellness apps face a much tougher funding environment."
+          }
+        ],
+        "our_response": {
+          "heading": "What we're doing at MindBridge",
+          "body": "From day one, MindBridge has presented itself as emotional companionship, not therapy: Valentina makes clear she is not a mental health professional and points people to verified crisis resources when needed. Regardless of what each law requires at any given moment, we keep reviewing how we describe the product so no one mistakes it for a clinical service."
         }
       }
     }
