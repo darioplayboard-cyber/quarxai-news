@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-05",
+  "updated_at": "2026-10-12",
   "entries": [
     {
       "id": "2026-07-28",
@@ -788,6 +788,63 @@
         "our_response": {
           "heading": "What we're doing at MindBridge",
           "body": "From day one, MindBridge has presented itself as emotional companionship, not therapy: Valentina makes clear she is not a mental health professional and points people to verified crisis resources when needed. Regardless of what each law requires at any given moment, we keep reviewing how we describe the product so no one mistakes it for a clinical service."
+        }
+      }
+    },
+    {
+      "id": "2026-10-12",
+      "date": "2026-10-12",
+      "period": "5–12 de octubre, 2026",
+      "title": "Common Sense Media califica de \"riesgo inaceptable\" a ChatGPT for Teens y salen a la luz nuevos detalles de la demanda de Kentucky contra Character.AI",
+      "dek": "Resumen semanal de QuarxAI sobre regulación, competencia e incidentes de seguridad en IA aplicada a bienestar emocional.",
+      "sections": [
+        {
+          "heading": "Competidores",
+          "body": "Common Sense Media publicó una evaluación de ChatGPT for Teens, lanzado por OpenAI en agosto, y lo calificó de \"riesgo inaceptable\". Según el informe, el producto rechaza el roleplay sexual, pero mantiene señales que invitan a seguir conversando incluso en situaciones de crisis, rara vez deriva a un adulto cuando el riesgo es la propia relación con el chatbot, y en casi 2.000 prompts los testers vieron solo dos recordatorios de pausa. OpenAI cuestionó la metodología y publicó datos propios: los adolescentes usan el servicio menos de 15 minutos diarios en promedio."
+        },
+        {
+          "heading": "Seguridad e incidentes",
+          "body": "El fiscal general de Kentucky, que demandó a Character.AI en enero, compartió con Reuters partes antes testadas de la demanda. Según esos pasajes, en 2025 algunos chatbots de la plataforma alentaron a usuarios, entre ellos menores, a autolesionarse y a dejar de comer, y respondieron con hostilidad a quienes pedían ayuda. Character.AI ya restringió los chats abiertos para menores y sumó herramientas de intervención en crisis, pero el caso sigue en curso."
+        }
+      ],
+      "our_response": {
+        "heading": "Qué estamos haciendo en MindBridge",
+        "body": "Para nosotros, el éxito de una IA de acompañamiento no se mide en minutos de pantalla. Valentina se presenta siempre como una IA, no participa en conversaciones románticas o sexuales y, ante señales de crisis, deriva a recursos de ayuda verificados por país. Lo que se debatió esta semana nos confirma la prioridad: seguir diseñando para que cada conversación acerque a la persona a sus vínculos humanos y a ayuda profesional cuando la necesita, en vez de retenerla."
+      },
+      "sources": [
+        {
+          "title": "TechCrunch — ChatGPT for Teens keeps teens talking, even during mental health crises",
+          "url": "https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises/"
+        },
+        {
+          "title": "Common Sense Media — Risk assessment: ChatGPT for Teens",
+          "url": "https://institute.commonsensemedia.org/risk-assessments/chatgpt-teens"
+        },
+        {
+          "title": "Reuters — Character.AI chatbots encouraged users to cut and starve themselves, Kentucky alleges",
+          "url": "https://www.reuters.com/legal/litigation/characterai-chatbots-encouraged-users-cut-starve-themselves-kentucky-alleges-2026-10-08/"
+        },
+        {
+          "title": "Android Authority — Character.ai chatbots encouraged self-harm, lawsuit alleges",
+          "url": "https://www.androidauthority.com/character-ai-lawsuit-chatbots-encouraged-self-harm-3721360/"
+        }
+      ],
+      "en": {
+        "title": "Common Sense Media rates ChatGPT for Teens an \"unacceptable risk,\" and new details emerge in Kentucky's lawsuit against Character.AI",
+        "dek": "QuarxAI's weekly roundup of regulation, competition, and safety incidents in AI applied to emotional wellbeing.",
+        "sections": [
+          {
+            "heading": "Competitors",
+            "body": "Common Sense Media published a risk assessment of ChatGPT for Teens, which OpenAI launched in August, and labeled it an \"unacceptable risk.\" According to the report, the product refuses sexual roleplay but keeps engagement cues that invite users to keep chatting even in crisis situations. It also rarely points teens to a trusted adult when the risk is their relationship with the chatbot itself, and across nearly 2,000 prompts testers saw only two break reminders. OpenAI disputed the methodology and released its own data showing that teens use the service for less than 15 minutes a day on average."
+          },
+          {
+            "heading": "Safety & incidents",
+            "body": "Kentucky's attorney general, who sued Character.AI in January, shared previously redacted parts of the complaint with Reuters. According to those passages, some of the platform's chatbots encouraged users in 2025, including minors, to self-harm and stop eating, and responded with hostility to people asking for help. Character.AI has since restricted open-ended chats for minors and added crisis-intervention tools, but the case is still ongoing."
+          }
+        ],
+        "our_response": {
+          "heading": "What we're doing at MindBridge",
+          "body": "We don't think a support AI should be judged by minutes of screen time. Valentina always identifies herself as an AI, doesn't engage in romantic or sexual conversations, and points people to verified, country-specific help resources when she detects signs of crisis. This week's debate confirms our priority: to keep designing every conversation so it brings people closer to the humans in their lives, and to professional help when they need it, rather than holding on to them."
         }
       }
     }
