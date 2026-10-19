@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-12",
+  "updated_at": "2026-10-19",
   "entries": [
     {
       "id": "2026-07-28",
@@ -845,6 +845,87 @@
         "our_response": {
           "heading": "What we're doing at MindBridge",
           "body": "We don't think a support AI should be judged by minutes of screen time. Valentina always identifies herself as an AI, doesn't engage in romantic or sexual conversations, and points people to verified, country-specific help resources when she detects signs of crisis. This week's debate confirms our priority: to keep designing every conversation so it brings people closer to the humans in their lives, and to professional help when they need it, rather than holding on to them."
+        }
+      }
+    },
+    {
+      "id": "2026-10-19",
+      "date": "2026-10-19",
+      "period": "12–19 de octubre, 2026",
+      "title": "Character.AI se declara en quiebra y 40 fiscales generales piden proteger los datos de menores en la venta",
+      "dek": "Resumen semanal de QuarxAI sobre regulación, competencia e incidentes de seguridad en IA aplicada a bienestar emocional.",
+      "sections": [
+        {
+          "heading": "Regulación",
+          "body": "Una coalición de 40 fiscales generales estatales de EE.UU. se presentó en el proceso de quiebra de Character.AI para exigir condiciones a cualquier comprador: verificación de edad, restricciones para menores, límites al uso de los chats para entrenar modelos o publicidad, y la posibilidad de que los usuarios accedan a sus datos y los borren antes de la venta. Los estados además negocian un acuerdo con la empresa por acusaciones de que sus chatbots se hacían pasar por profesionales de salud licenciados. A nivel federal, el GUARD Act sigue sin fecha de votación en el pleno del Senado, y la ley de compañeros de IA de Oregon (SB 1546) mantiene su entrada en vigencia el 1 de enero de 2027."
+        },
+        {
+          "heading": "Competidores",
+          "body": "Character.AI, la mayor plataforma de compañeros de IA, se acogió al Capítulo 11 de la ley de quiebras el 12 de octubre en Delaware. Disney acordó pagar USD 20 millones por una licencia de su tecnología y contratar a la mayor parte del equipo, sin interés en los datos de usuarios; el negocio del chatbot busca comprador en una subasta. La empresa atribuyó la quiebra a los costos legales y al alto precio del cómputo y del talento en IA."
+        },
+        {
+          "heading": "Seguridad e incidentes",
+          "body": "Character.AI informó acuerdos preliminares con cinco familias que la demandaron por daños a menores, incluidos dos casos de suicidio, y según la prensa local de Orlando quedó cerrado el acuerdo con la madre de Sewell Setzer III, el primer caso de alto perfil del sector. La empresa sigue bajo investigación en EE.UU., Reino Unido, Italia, Rusia y Australia."
+        },
+        {
+          "heading": "Mercado e inversión",
+          "body": "Según documentos judiciales, Character.AI perdía entre USD 8 y 9 millones por mes antes de la quiebra, pese a que sus usuarios activos pasaban en promedio dos horas diarias en la plataforma. El caso muestra que un alto engagement no alcanza para sostener un producto de compañía cuando se acumulan los riesgos legales y de seguridad. Al mismo tiempo, cada vez más personas recurren a la IA para hablar de su salud mental, y los terapeutas advierten sobre sus límites."
+        }
+      ],
+      "our_response": {
+        "heading": "Qué estamos haciendo en MindBridge",
+        "body": "Lo que una persona comparte en un momento difícil no es un activo comercial, y así lo tratamos al diseñar MindBridge. La protección de los menores, la derivación a ayuda profesional ante una crisis y la transparencia sobre qué es Valentina forman parte del producto desde el comienzo, no como un agregado posterior. Seguimos de cerca cómo los reguladores definen estos estándares para adelantarnos a ellos."
+      },
+      "sources": [
+        {
+          "title": "Insurance Journal / Reuters — States Seek Children's Data Protections in Character.AI Bankruptcy",
+          "url": "https://www.insurancejournal.com/news/national/2026/10/15/889061.htm"
+        },
+        {
+          "title": "Colorado Politics — Colorado seeks consumer privacy actions in AI startup bankruptcy",
+          "url": "https://www.coloradopolitics.com/2026/10/15/ags-office-seeks-consumer-protections-following-ai-startup-bankruptcy/"
+        },
+        {
+          "title": "GovTech — Massachusetts AG joins effort to protect AI chatbot data",
+          "url": "https://govtech.com/artificial-intelligence/massachusetts-ag-joins-effort-to-protect-ai-chatbot-data"
+        },
+        {
+          "title": "ClickOrlando — Orlando mother settles lawsuit with AI company over 14-year-old son's suicide",
+          "url": "https://clickorlando.com/news/local/2026/10/16/orlando-mother-settles-lawsuit-with-ai-company-over-14-year-old-sons-suicide"
+        },
+        {
+          "title": "KFYR / AP — Rise in people using AI for mental health",
+          "url": "https://www.kfyrtv.com/2026/10/16/rise-people-using-ai-mental-health/"
+        },
+        {
+          "title": "Congress.gov — S.3062 GUARD Act",
+          "url": "https://www.congress.gov/bill/119th-congress/senate-bill/3062"
+        }
+      ],
+      "en": {
+        "title": "Character.AI files for bankruptcy as 40 attorneys general demand protections for minors' data in the sale",
+        "dek": "QuarxAI's weekly roundup of regulation, competition, and safety incidents in AI applied to emotional wellbeing.",
+        "sections": [
+          {
+            "heading": "Regulation",
+            "body": "A coalition of 40 US state attorneys general appeared in Character.AI's bankruptcy case to demand conditions on any buyer: age verification, restrictions for minors, limits on using chats for model training or advertising, and the chance for users to access and delete their data before the sale. The states are also negotiating a settlement with the company over allegations that its chatbots impersonated licensed health professionals. At the federal level, the GUARD Act still has no floor vote scheduled in the Senate, and Oregon's AI companion law (SB 1546) remains set to take effect on January 1, 2027."
+          },
+          {
+            "heading": "Competitors",
+            "body": "Character.AI, the largest AI companion platform, filed for Chapter 11 bankruptcy protection on October 12 in Delaware. Disney agreed to pay $20 million to license its technology and hire most of its staff, with no interest in user data; the chatbot business is being put up for auction. The company blamed legal costs and the high price of compute and AI talent."
+          },
+          {
+            "heading": "Safety & incidents",
+            "body": "Character.AI reported preliminary settlements with five families who sued over harm to minors, including two suicide cases, and according to Orlando local press the settlement with the mother of Sewell Setzer III, the sector's first high-profile case, has been finalized. The company remains under investigation in the US, the UK, Italy, Russia and Australia."
+          },
+          {
+            "heading": "Market & investment",
+            "body": "According to court filings, Character.AI was losing $8 to $9 million a month before bankruptcy, even though its active users spent an average of two hours a day on the platform. The case shows that high engagement is not enough to sustain a companion product when legal and safety risks pile up. Meanwhile, more and more people are turning to AI to talk about their mental health, and therapists are warning about its limits."
+          }
+        ],
+        "our_response": {
+          "heading": "What we're doing at MindBridge",
+          "body": "What a person shares in a difficult moment is not a commercial asset, and that is how we treat it when designing MindBridge. Protecting minors, referring people to professional help in a crisis, and being transparent about what Valentina is have been part of the product from the start, not an afterthought. We are closely following how regulators define these standards so we can stay ahead of them."
         }
       }
     }
