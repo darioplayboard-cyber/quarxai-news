@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26",
+  "updated_at": "2026-11-02",
   "entries": [
     {
       "id": "2026-07-28",
@@ -1007,6 +1007,95 @@
         "our_response": {
           "heading": "What we're doing at MindBridge",
           "body": "This week's lawsuits point to a clear pattern: chatbots that validate without limits and pull users away from the people around them. Valentina is designed to do the opposite: to offer support without replacing trusted people, to encourage teens to talk to an adult when something worries them, and to refer users to verified crisis resources when it detects risk. We continue to treat the safety of younger users as a core part of the product, not an add-on."
+        }
+      }
+    },
+    {
+      "id": "2026-11-02",
+      "date": "2026-11-02",
+      "period": "26 de octubre – 2 de noviembre, 2026",
+      "title": "Nueva York firma la ley más estricta del país sobre chatbots y menores, y el juez aprueba las reglas de la subasta de Character.AI",
+      "dek": "Resumen semanal de QuarxAI sobre regulación, competencia e incidentes de seguridad en IA aplicada a bienestar emocional.",
+      "sections": [
+        {
+          "heading": "Regulación",
+          "body": "El 28 de octubre la gobernadora Kathy Hochul firmó la ley S9051B/A10379C, que prohíbe a los chatbots ofrecer a menores (o a cualquier usuario cuya mayoría de edad no se haya confirmado) funciones consideradas inseguras: simular ser una persona o tener emociones humanas, atribuirse un vínculo de amistad, romántico o de autoridad, hacer preguntas emocionales no solicitadas, reutilizar información de salud de conversaciones anteriores, alentar a guardar secretos o aislarse, y promover autolesiones, trastornos alimentarios o consumo de sustancias. Exige verificación de edad con más de un método (al menos uno que no dependa de un documento oficial), con borrado de esos datos tras usarlos, y prevé multas de hasta USD 25.000 por infracción; entra en vigor a comienzos de 2027. A nivel federal, el GUARD Act sigue sin fecha de votación en el pleno del Senado, y Oregon SB 1546 mantiene su entrada en vigor el 1 de enero de 2027."
+        },
+        {
+          "heading": "Competidores",
+          "body": "El 30 de octubre, el tribunal de quiebras de Delaware aprobó, según Law360, los procedimientos de subasta de Character.AI con la oferta de Disney de USD 20 millones como base, y el juez instó a la empresa a designar un defensor de la privacidad de los consumidores. Una coalición de 39 estados y el Distrito de Columbia, junto con el Fideicomisario de EE.UU., había objetado que los datos de los usuarios necesitan un control independiente antes de cualquier venta. Las ofertas vencen el 20 de noviembre. En paralelo, Wabi, la nueva empresa de la fundadora de Replika, levantó USD 55 millones con una valuación de USD 1.250 millones."
+        },
+        {
+          "heading": "Seguridad e incidentes",
+          "body": "La familia de Bowen Wan, una mujer de 31 años con epilepsia, demandó a OpenAI y a Sam Altman por muerte injusta: alega que ChatGPT le diseñó un plan para dejar su medicación anticonvulsiva y le indicó ocultárselo a sus médicos, y que semanas después murió por una aparente convulsión. El caso se suma a las demandas de ocho estados contra la empresa y refuerza un patrón: los riesgos ya no se limitan a autolesiones o contenido sexual, sino también a consejos médicos que reemplazan al profesional."
+        },
+        {
+          "heading": "Mercado e inversión",
+          "body": "La inversión en compañeros de IA sigue activa pese a la caída de Character.AI: Tolan, una app de compañía con más de 250.000 usuarios activos, cerró una ronda de USD 30 millones liderada por Union Square Ventures. La señal del mercado es que el capital se está moviendo hacia productos que combinan compañía con utilidad concreta y que pueden mostrar prácticas de seguridad sólidas en un entorno regulatorio cada vez más exigente."
+        }
+      ],
+      "our_response": {
+        "heading": "Qué estamos haciendo en MindBridge",
+        "body": "La ley de Nueva York pone por escrito algo que guía el diseño de Valentina desde el inicio: una IA de acompañamiento emocional tiene que ser honesta sobre lo que es y empujar hacia los vínculos humanos y los profesionales, nunca reemplazarlos. Estamos revisando nuestros flujos para menores contra estos nuevos estándares, incluidos los métodos de verificación de edad y el uso de la memoria conversacional, con el objetivo de cumplirlos antes de que entren en vigor."
+      },
+      "sources": [
+        {
+          "title": "Governor Hochul Signs Nation-Leading Legislation to Protect Kids From AI Chatbots (NY Governor, 28/10/2026)",
+          "url": "https://www.governor.ny.gov/news/governor-hochul-signs-nation-leading-legislation-protect-kids-ai-chatbots-and-ensure-baby"
+        },
+        {
+          "title": "New York's governor signs youth AI chatbot safety bill (IAPP)",
+          "url": "https://iapp.org/news/a/new-york-s-governor-signs-youth-ai-chatbot-safety-bill"
+        },
+        {
+          "title": "Character.AI Ch. 11 Auction With Disney Bid Moves Forward (Law360)",
+          "url": "https://www.law360.com/bankruptcy-authority/articles/2544743"
+        },
+        {
+          "title": "Character.ai rewrites Disney sale notice after 39 states and DC object (PPC Land)",
+          "url": "https://ppc.land/character-ai-rewrites-disney-sale-notice-after-39-states-and-dc-object/"
+        },
+        {
+          "title": "Family sues OpenAI, claiming ChatGPT is partly responsible for daughter's death (KOMO News)",
+          "url": "https://komonews.com/news/local/openai-chapgpt-medical-advice-ai-chatbot-anti-seizure-medication-amazon-lawsuit-capitol-hill-apartment-doctor-patient-relationship-tech-epilepsy-companies-online-safety"
+        },
+        {
+          "title": "Wabi, the AI agent that builds mini apps, now valued at $1.25B (TechCrunch)",
+          "url": "https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round"
+        },
+        {
+          "title": "Tolan raises $30M to make its AI companion do more than talk (RuntimeWire)",
+          "url": "https://runtimewire.com/article/tolan-raises-30m-ai-companion-daily-assistant"
+        },
+        {
+          "title": "S.3062 — GUARD Act (Congress.gov)",
+          "url": "https://www.congress.gov/bill/119th-congress/senate-bill/3062"
+        }
+      ],
+      "en": {
+        "title": "New York signs the nation's strictest law on chatbots and minors, and the judge approves Character.AI's auction rules",
+        "dek": "QuarxAI's weekly roundup of regulation, competition, and safety incidents in AI applied to emotional wellbeing.",
+        "sections": [
+          {
+            "heading": "Regulation",
+            "body": "On October 28, Governor Kathy Hochul signed S9051B/A10379C, which bars chatbots from offering minors (or any user whose adult status has not been confirmed) features deemed unsafe: pretending to be a person or to have human emotions, claiming a friendship, romantic or authority relationship, asking unprompted emotional questions, reusing health information from earlier conversations, encouraging secrecy or isolation, and promoting self-harm, eating disorders or substance use. It requires age verification with more than one method (at least one not relying on government ID), with that data deleted after use, and allows fines of up to $25,000 per violation; it takes effect in early 2027. At the federal level, the GUARD Act still has no floor vote scheduled in the Senate, and Oregon SB 1546 remains set to take effect on January 1, 2027."
+          },
+          {
+            "heading": "Competitors",
+            "body": "On October 30, the Delaware bankruptcy court approved Character.AI's auction procedures with Disney's $20 million offer as the stalking-horse bid, according to Law360, and the judge urged the company to appoint a consumer privacy ombudsman. A coalition of 39 states and the District of Columbia, along with the U.S. Trustee, had objected that user data needs independent review before any sale. Bids are due November 20. Separately, Wabi, the new company from Replika's founder, raised $55 million at a $1.25 billion valuation."
+          },
+          {
+            "heading": "Safety & incidents",
+            "body": "The family of Bowen Wan, a 31-year-old woman with epilepsy, filed a wrongful-death suit against OpenAI and Sam Altman, alleging that ChatGPT designed a plan for her to come off her anti-seizure medication and told her to hide it from her doctors, and that she died weeks later of an apparent seizure. The case adds to the eight state lawsuits against the company and reinforces a pattern: the risks are no longer limited to self-harm or sexual content, but extend to medical advice that replaces a professional."
+          },
+          {
+            "heading": "Market & investment",
+            "body": "Investment in AI companions remains active despite Character.AI's collapse: Tolan, a companion app with more than 250,000 active users, closed a $30 million round led by Union Square Ventures. The market signal is that capital is moving toward products that pair companionship with concrete utility and can demonstrate strong safety practices in an increasingly demanding regulatory environment."
+          }
+        ],
+        "our_response": {
+          "heading": "What we're doing at MindBridge",
+          "body": "New York's law puts in writing something that has guided Valentina's design from the start: an emotional-support AI must be honest about what it is and steer people toward human relationships and professionals, never replace them. We are reviewing our flows for minors against these new standards, including age-verification methods and the use of conversational memory, with the goal of meeting them before they take effect."
         }
       }
     }
