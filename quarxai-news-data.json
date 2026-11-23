@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16",
+  "updated_at": "2026-11-23",
   "entries": [
     {
       "id": "2026-07-28",
@@ -1266,6 +1266,83 @@
         "our_response": {
           "heading": "What we're doing at MindBridge",
           "body": "Valentina was designed from day one as emotional support, not a virtual partner: she offers no romantic features, clearly identifies as an AI, and is built to strengthen people's real-life relationships rather than replace them. The proposals coming out of Europe and the new app store rules point in the same direction, and we keep reviewing our design so that user wellbeing always outweighs time spent in the app."
+        }
+      }
+    },
+    {
+      "id": "2026-11-23",
+      "date": "2026-11-23",
+      "period": "16–23 de noviembre, 2026",
+      "title": "Oregon demanda a OpenAI por la seguridad de los menores en ChatGPT, y la ley de chatbots de Nueva York correría su entrada en vigor a junio de 2027",
+      "dek": "Resumen semanal de QuarxAI sobre regulación, competencia e incidentes de seguridad en IA aplicada a bienestar emocional.",
+      "sections": [
+        {
+          "heading": "Regulación",
+          "body": "La ley S9051B de Nueva York, que prohíbe ofrecer a menores funciones de chatbots consideradas inseguras, se firmó con una enmienda de capítulo acordada que corre su entrada en vigor del 1 de enero al 1 de junio de 2027, según el comunicado de su autora, la senadora Kristen Gonzalez, y el análisis del Future of Privacy Forum. La enmienda todavía debe aprobarse en la Legislatura al comienzo de la sesión de 2027, y varios análisis siguen citando el 1 de enero que figura en el texto promulgado. En el plano federal, el GUARD Act sigue sin votación en el pleno del Senado, y la ley SB 1546 de Oregon mantiene su entrada en vigor el 1 de enero de 2027, sin novedades esta semana."
+        },
+        {
+          "heading": "Competidores",
+          "body": "La quiebra de Character.AI sumó objeciones antes de la audiencia del 23 de noviembre. El 18 de noviembre, una coalición de 39 estados y el Distrito de Columbia, con Texas por separado, pidió al tribunal de Delaware rechazar la licencia de propiedad intelectual y tecnología a Disney por USD 20 millones, o aprobarla solo con condiciones. El 19 de noviembre, el Síndico de EE.UU. objetó la oferta base de USD 10 millones de Smirks and Pangs Acquisition por la plataforma, porque no se reveló quién la respalda y porque incluye las conversaciones de los usuarios. Las ofertas vencen el 24 de noviembre y la subasta está fijada para el 1 de diciembre."
+        },
+        {
+          "heading": "Seguridad e incidentes",
+          "body": "El 17 de noviembre, el fiscal general de Oregon, Dan Rayfield, demandó a OpenAI y le reclama al menos USD 2.035 millones. La demanda alega que ChatGPT pone en riesgo a los menores con respuestas complacientes y un diseño antropomórfico, que tiene dificultades para identificar a usuarios menores y que muchas veces no avisa a los padres vinculados cuando una conversación indica una emergencia de salud mental. Es la más reciente de una serie de demandas estatales contra OpenAI, después de las de ocho estados en octubre. OpenAI cuestiona la metodología de la demanda, y ninguna de las acusaciones fue probada en un tribunal."
+        }
+      ],
+      "our_response": {
+        "heading": "Qué estamos haciendo en MindBridge",
+        "body": "La regulación converge en un mismo punto: la complacencia y los vínculos simulados con menores dejaron de ser solo un tema de diseño y pasaron a ser un tema legal. En MindBridge vemos el margen adicional en Nueva York como tiempo para adecuar bien la experiencia de los adolescentes, no como un motivo para posponerla. Seguimos revisando cómo conversa Valentina para que acompañe sin halagar, sin crear dependencia y siempre derivando a personas y profesionales de confianza."
+      },
+      "sources": [
+        {
+          "title": "Senator Kristen Gonzalez Bans Unsafe Chatbot Feature for Minors — NY Senate",
+          "url": "https://www.nysenate.gov/newsroom/press-releases/2026/kristen-gonzalez/senator-kristen-gonzalez-bans-unsafe-chatbot-feature"
+        },
+        {
+          "title": "Back in the Chat: California and New York Take Diverging Paths — Future of Privacy Forum",
+          "url": "https://fpf.org/blog/back-in-the-chat-california-and-new-york-take-diverging-paths-in-second-wave-of-chatbot-regulations/"
+        },
+        {
+          "title": "New York Enacts AI Chatbot Safeguards for Minors — Holland & Knight",
+          "url": "https://www.hklaw.com/en/insights/publications/2026/11/new-york-enacts-ai-chatbot-safeguards-for-minors"
+        },
+        {
+          "title": "Oregon is the latest state to sue OpenAI over child safety — Engadget",
+          "url": "https://www.engadget.com/2320041/oregon-is-the-latest-state-to-sue-openai-over-child-safety/"
+        },
+        {
+          "title": "Oregon sues OpenAI over ChatGPT child safety, seeks $2 billion — Quartz",
+          "url": "https://qz.com/oregon-sues-openai-chatgpt-child-safety-111826"
+        },
+        {
+          "title": "39 states and DC ask court to deny Disney's $20m Character.ai deal — PPC Land",
+          "url": "https://ppc.land/39-states-and-dc-ask-court-to-deny-disneys-20m-character-ai-deal/"
+        },
+        {
+          "title": "U.S. Trustee and states oppose Character.AI's $10 million platform bidder — ElevenFlo",
+          "url": "https://elevenflo.com/cases/character-technologies-inc-20283/analysis"
+        }
+      ],
+      "en": {
+        "title": "Oregon sues OpenAI over minors' safety on ChatGPT, and New York's chatbot law would push its start date to June 2027",
+        "dek": "QuarxAI's weekly roundup of regulation, competition, and safety incidents in AI applied to emotional wellbeing.",
+        "sections": [
+          {
+            "heading": "Regulation",
+            "body": "New York's S9051B, which bars offering minors chatbot features deemed unsafe, was signed with an agreed chapter amendment that moves its effective date from January 1 to June 1, 2027, according to a release from its sponsor, Senator Kristen Gonzalez, and an analysis by the Future of Privacy Forum. The amendment still has to pass the Legislature early in the 2027 session, and several analyses still cite the January 1 date in the enacted text. At the federal level, the GUARD Act still awaits a Senate floor vote, and Oregon's SB 1546 remains on track to take effect January 1, 2027, with no news this week."
+          },
+          {
+            "heading": "Competitors",
+            "body": "Character.AI's bankruptcy drew more objections ahead of a November 23 hearing. On November 18, a coalition of 39 states and the District of Columbia, with Texas filing separately, asked the Delaware court to reject a $20 million IP and technology license to Disney, or approve it only with conditions. On November 19, the U.S. Trustee objected to Smirks and Pangs Acquisition's $10 million stalking-horse bid for the platform, because its backer was not disclosed and because the deal includes users' conversations. Bids are due November 24, and the auction is set for December 1."
+          },
+          {
+            "heading": "Safety & incidents",
+            "body": "On November 17, Oregon Attorney General Dan Rayfield sued OpenAI, seeking at least $2.035 billion. The suit alleges that ChatGPT endangers minors through sycophantic responses and anthropomorphic design, struggles to identify underage users, and often fails to alert linked parents when a conversation points to a mental health emergency. It is the latest in a series of state suits against OpenAI, following eight states in October. OpenAI disputes the suit's methodology, and none of the claims has been tested in court."
+          }
+        ],
+        "our_response": {
+          "heading": "What we're doing at MindBridge",
+          "body": "Regulation is converging on one point: sycophancy and simulated relationships with minors are no longer just a design question, they are a legal one. At MindBridge we see the extra time in New York as a chance to get the teen experience right, not as a reason to delay it. We keep reviewing how Valentina converses so she offers support without flattery, without fostering dependence, and always pointing toward trusted people and professionals."
         }
       }
     }
